@@ -29,7 +29,8 @@ Follow [instructions] (../README.md)
 
 ## Run robot tests
 ```bash
-robot  task.robot
+robot tests\task.robot
+
 ```
 # Report portal integration with Robot Framework
 For the integration library [robotframework-reportportal](https://github.com/reportportal/agent-Python-RobotFramework)
@@ -39,6 +40,6 @@ To implement the integration you will need to add `robotframework-reportportal` 
 add some commands to the script of starting your test cases.
 
 ## Test results on report portal
-All results after running the robot task.robot command are in log.html and report.html with detailed results of the test cases.
+All results after running the robot tests\task.robot command are in log.html and report.html with detailed results of the test cases.
 
 
