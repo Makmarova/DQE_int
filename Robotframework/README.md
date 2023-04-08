@@ -1,7 +1,7 @@
 ## Project location
 The project can be found in repository:
 
-https://github.com/Makmarova/DQE_int/tree/main/Robotframework
+https://github.com/Makmarova/DQE_int.git
 
 ## Environment setup
 ```bash
