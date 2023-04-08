@@ -25,7 +25,7 @@ pip install robotframework-reportportal -ng
 ```
 ```
 ## Deploy and configure Data Quality solution
-Follow [instructions](../README.md)
+Follow [instructions] (../README.md)
 
 ## Run robot tests
 ```bash
