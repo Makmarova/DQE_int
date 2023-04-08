@@ -1,0 +1,4 @@
+pytest==7.2.2
+pyodbc==4.0.35
+pytest-html==3.2.0
+
