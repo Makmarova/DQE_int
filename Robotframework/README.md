@@ -4,6 +4,7 @@ The project can be found in repository:
 https://github.com/Makmarova/DQE_int/tree/main/Robotframework
 
 ## Environment setup
+```bash
 pip install python-dateutil --upgrade
 
 ## Create virtual environment for tests execution
